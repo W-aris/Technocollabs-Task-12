@@ -13,15 +13,6 @@ This project is a modern, animated, and fully responsive website for a fictional
 - **Modern Animations:** Fade, pop, and bounce effects for engaging user experience.
 - **Clean, Readable Code:** Easy to customize and extend.
 
-## 🚀 Preview
-
-![Broadway Design Preview](https://user-images.githubusercontent.com/your-github-username/broadway-design-preview.png)
-
-## 📱 Responsive Example
-
-| Desktop | Tablet | Mobile |
-|---------|--------|--------|
-| ![Desktop](https://user-images.githubusercontent.com/your-github-username/broadway-desktop.png) | ![Tablet](https://user-images.githubusercontent.com/your-github-username/broadway-tablet.png) | ![Mobile](https://user-images.githubusercontent.com/your-github-username/broadway-mobile.png) |
 
 ## 🛠️ Getting Started
 
